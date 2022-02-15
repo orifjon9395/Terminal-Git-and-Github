@@ -6,6 +6,7 @@
 	text-decoration: none;
 }
 body{
+	background-color:rgba(54, 54, 54, 0.432);
 	line-height: calc(3vw + 60%);
 }
 
